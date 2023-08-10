@@ -2,7 +2,7 @@
 para crear un webserver en un entorno local
 */
 const express = require("express");
-const { required } = require("nodemon/lib/config");
+//const { required } = require("nodemon/lib/config");
 // el webserver se le asigne al archivo app.js
 const app = express();
 //const port = 9596;
