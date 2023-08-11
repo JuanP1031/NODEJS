@@ -8,7 +8,7 @@ const app = express();
 //const port = 9596;
 
 // importar el paquete de dotenv
-require("dontenv").config();
+require("dotenv").config();
 const port = process.env.PORT;
 
 
